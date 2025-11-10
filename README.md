@@ -28,6 +28,11 @@
 
 ---
 
+### 🔗 Live Demo  
+[https://chic-froyo-76bace.netlify.app](https://chic-froyo-76bace.netlify.app)
+
+---
+
 ### 🚀 Features
 
 - 🔍 Search movies through TMDB API
