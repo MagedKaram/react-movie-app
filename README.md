@@ -48,11 +48,11 @@ I’m Maged Karam, a frontend developer from Egypt 🇪🇬
 Currently serving in the Egyptian Army (4 months left 💪) —
 but still learning, coding, and sharing my progress publicly.
 
-### 🌐 Connect with me:
+<!-- ### 🌐 Connect with me:
 
 <a href="https://github.com/MagedKaram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
 
 ### ✨ Quote I Live By
 
