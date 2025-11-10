@@ -8,6 +8,7 @@
 ---
 
 ### 🧠 Tech Stack & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -20,6 +21,7 @@
 ---
 
 ### 📸 Preview
+
 <p align="center">
   <img src="./screenshot.png" width="800px" alt="App Screenshot"/>
 </p>
@@ -27,14 +29,16 @@
 ---
 
 ### 🚀 Features
-- 🔍 Search movies through TMDB API  
-- 💾 Store and track search terms using **Appwrite**  
-- 🎨 Built with modern stack: React + Vite + Tailwind  
-- 📊 Simple, clean, and responsive interface  
+
+- 🔍 Search movies through TMDB API
+- 💾 Store and track search terms using **Appwrite**
+- 🎨 Built with modern stack: React + Vite + Tailwind
+- 📊 Simple, clean, and responsive interface
 
 ---
 
 ### ⚙️ Installation & Setup
+
 ```bash
 # Clone the repo
 git clone https://github.com/MagedKaram/react-movie-app.git
@@ -47,3 +51,29 @@ npm install
 
 # Run locally
 npm run dev
+
+
+---
+💡 Why This Project
+
+I built this app as part of my comeback journey after military service.
+During limited free time, I started revisiting React fundamentals to stay sharp, consistent, and ready to return to tech stronger than before.
+
+---
+🧍‍♂️ About Me
+
+I’m Maged Karam, a frontend developer from Egypt 🇪🇬
+Currently serving in the Egyptian Army (4 months left 💪) —
+but still learning, coding, and sharing my progress publicly.
+
+---
+📬 Connect with me:
+<a href="https://github.com/MagedKaram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+---
+✨ Quote I Live By
+
+“Discipline from the army. Creativity from code.” 💻🔥
+```
