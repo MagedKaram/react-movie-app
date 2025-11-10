@@ -37,6 +37,29 @@
 
 ---
 
+### 💡 Why This Project
+
+I built this app as part of my comeback journey after military service.
+During limited free time, I started revisiting React fundamentals to stay sharp, consistent, and ready to return to tech stronger than before.
+
+### 🧍‍♂️ About Me
+
+I’m Maged Karam, a frontend developer from Egypt 🇪🇬
+Currently serving in the Egyptian Army (4 months left 💪) —
+but still learning, coding, and sharing my progress publicly.
+
+### 🌐 Connect with me:
+
+<a href="https://github.com/MagedKaram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+### ✨ Quote I Live By
+
+“Discipline from the army. Creativity from code.” 💻
+
+---
+
 ### ⚙️ Installation & Setup
 
 ```bash
@@ -51,29 +74,4 @@ npm install
 
 # Run locally
 npm run dev
-
-
----
-💡 Why This Project
-
-I built this app as part of my comeback journey after military service.
-During limited free time, I started revisiting React fundamentals to stay sharp, consistent, and ready to return to tech stronger than before.
-
----
-🧍‍♂️ About Me
-
-I’m Maged Karam, a frontend developer from Egypt 🇪🇬
-Currently serving in the Egyptian Army (4 months left 💪) —
-but still learning, coding, and sharing my progress publicly.
-
----
-📬 Connect with me:
-<a href="https://github.com/MagedKaram"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
----
-✨ Quote I Live By
-
-“Discipline from the army. Creativity from code.” 💻🔥
 ```
